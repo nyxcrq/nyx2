@@ -28,7 +28,7 @@ export default function Home() {
         <div className="row">
           <div className="col-md-4">
             <div className="card mb-3">
-              <img src="/img/5.png" className="custom-img" alt="Card Image 5" />
+              <img src="/img/1.png" className="custom-img" alt="Card Image 5" />
               <div className="card-body text-center">
                 <h5 className="card-title">การตูนย์แนะนำ</h5>
                 <p className="card-text">Alice in WondeRland 2015</p>
@@ -39,7 +39,7 @@ export default function Home() {
 
           <div className="col-md-4">
             <div className="card mb-3">
-              <img src="img/6.png" className="custom-img" alt="Card Image 6" />
+              <img src="img/2.png" className="custom-img" alt="Card Image 6" />
               <div className="card-body text-center">
                 <h5 className="card-title">การตูนย์แนะนำ</h5>
                 <p className="card-text">Alice in WondeRland 2022</p>
@@ -50,7 +50,7 @@ export default function Home() {
 
           <div className="col-md-4">
             <div className="card mb-3">
-              <img src="/img/4.png" className="custom-img" alt="Card Image 7" />
+              <img src="/img/3.png" className="custom-img" alt="Card Image 7" />
               <div className="card-body text-center">
                 <h5 className="card-title">การตูนย์แนะนำ</h5>
                 <p className="card-text">The Lion King</p>
