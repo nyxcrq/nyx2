@@ -12,7 +12,7 @@ export default function Home() {
               <img src="/img/3.png" className="d-block w-100" alt="Slide 1" />
             </div>
             <div className="carousel-item">
-              <img src="/img/4.png" className="d-block w-100" alt="Slide 2" />
+              <img src="/img/3.png" className="d-block w-100" alt="Slide 2" />
             </div>
           </div>
           <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
@@ -30,7 +30,7 @@ export default function Home() {
             <div className="card mb-3">
               <img src="/img/1.png" className="custom-img" alt="Card Image 5" />
               <div className="card-body text-center">
-                <h5 className="card-title">Recommended set</h5>
+                <h5 className="card-title">Recommended red set</h5>
                 <p className="card-text">Crop and short skirt</p>
                 <a href="#" className="btn btn-primary">See</a>
               </div>
@@ -41,7 +41,7 @@ export default function Home() {
             <div className="card mb-3">
               <img src="/img/2.png" className="custom-img" alt="Card Image 6" />
               <div className="card-body text-center">
-                <h5 className="card-title">Recommended set</h5>
+                <h5 className="card-title">Recommended blue set</h5>
                 <p className="card-text">Crop and short skirt</p>
                 <a href="#" className="btn btn-primary">See</a>
               </div>
@@ -50,9 +50,9 @@ export default function Home() {
 
           <div className="col-md-4">
             <div className="card mb-3">
-              <img src="/img/4.png" className="custom-img" alt="Card Image 7" />
+              <img src="/img/4.jpg" className="custom-img" alt="Card Image 7" />
               <div className="card-body text-center">
-                <h5 className="card-title">Recommended set</h5>
+                <h5 className="card-title">Recommended red set</h5>
                 <p className="card-text">Crop and short skirt</p>
                 <a href="#" className="btn btn-primary">See</a>
               </div>
