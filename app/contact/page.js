@@ -10,7 +10,7 @@ export default function Home() {
             <div className="col-12 col-lg-6">
               <div className="row justify-content-xl-center">
                 <div className="col-12 col-xl-11">
-                  <h2 className="h1 mb-3">ถ้าอยากติดต่อมาหาพวกเรา</h2>
+                  <h2 className="h1 mb-3">Contact us </h2>
                   <p className="lead fs-4 text-secondary mb-5"></p>
                   <div className="d-flex mb-5">
                     <div className="me-4 text-primary">
