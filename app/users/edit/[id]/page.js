@@ -111,7 +111,7 @@ export default function Page({ params }) {
                   </div>
                 </div>
                 <div className="col-12">
-                  <button type="submit" className="btn btn-success"><i className="bi bi-box-arrow-right"></i> Sign Up</button>
+                  <button type="submit" className="btn btn-success"><i className="bi bi-box-arrow-right"></i> Edit </button>
                 </div>
               </form>
             ))}
