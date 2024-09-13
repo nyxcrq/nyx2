@@ -23,7 +23,7 @@ export default function Home() {
         </form>
 
         <div class="text-end">
-        <Link href="/login"><button type="button" class="btn btn-outline-light me-2">Login</button></Link>
+        <Link href="/login"><button type="button" class="btn btn-warning">Login</button></Link>
         <Link href="/signup"><button type="button" class="btn btn-warning">Sign-up</button></Link>
         </div>
       </div>
